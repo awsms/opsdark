@@ -4407,7 +4407,7 @@ table.staff {
     box-shadow: inset 0 3px 3px -3px rgba(0, 0, 0, .4), inset 0 -3px 3px -3px rgba(0, 0, 0, .4)
 }
 .torrent_table tr.edition td {
-    color: #9e5252!important;
+    color: #529e6e!important;
     padding: 0;
     border-bottom: 1px solid #252525;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, .4)
@@ -4555,7 +4555,7 @@ table.staff {
 .torrent_links_block a,
 .torrent_table .group_torrent > td > span a,
 .torrent_table span a {
-    color: #9e5252!important;
+    color: #529e6e!important;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, .9)
 }
 .torrent_links_block a:hover,
