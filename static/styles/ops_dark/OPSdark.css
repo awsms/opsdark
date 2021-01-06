@@ -337,7 +337,7 @@ table.staff .rowb {
 .wiki_log_table tr.colhead td,
 table.staff tr.colhead_dark td,
 table.staff tr.colhead td {
-    color: #32a245;
+    color: #fd5656;
     font-size: 1.1em;
     padding-bottom: 10px;
     padding-top: 10px;
@@ -4407,7 +4407,7 @@ table.staff {
     box-shadow: inset 0 3px 3px -3px rgba(0, 0, 0, .4), inset 0 -3px 3px -3px rgba(0, 0, 0, .4)
 }
 .torrent_table tr.edition td {
-    color: #529e6e!important;
+    color: #9e5252!important;
     padding: 0;
     border-bottom: 1px solid #252525;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, .4)
@@ -4555,7 +4555,7 @@ table.staff {
 .torrent_links_block a,
 .torrent_table .group_torrent > td > span a,
 .torrent_table span a {
-    color: #529e6e!important;
+    color: #9e5252!important;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, .9)
 }
 .torrent_links_block a:hover,
